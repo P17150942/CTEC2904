@@ -1,3 +1,0 @@
-junk2 >> junk2.txt
-
-echo junk2
