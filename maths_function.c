@@ -15,4 +15,12 @@ subtract(int a, int b)
 
 }
 
+multiply(int a, int b)
+
+{    
+
+   return a * b;
+
+}
+
  
